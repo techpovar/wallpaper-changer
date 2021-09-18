@@ -35,4 +35,4 @@ extensions - расширения ИЗОБРАЖЕНИЙ для обоев. По
 
 7. Я переместил фото в папку но скрипт их не видит...
 > Пункт 3 -> Constants -> extensionsЗапуск start.bat или main.pyw
->> Файл настроек settings.ini
+> Файл настроек settings.ini
